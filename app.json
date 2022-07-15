@@ -5,7 +5,7 @@
     "telegram",
     "HugoMention"
   ],
-  "repository": "https://github.com/StevanKz/HugoMention",
+  "repository": "https://github.com/Jenn607/HugoMention",
   "stack": "heroku-22",
   "env": {
     "API_ID": {
